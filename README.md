@@ -19,3 +19,12 @@ _____
 On day three I developed an app which uses material routes and navigation drawer. Used user account drawer header, List tile and worked with material app themes for android and ios using foundation.dart package.
 [Navigation Drawer App](https://github.com/anas-aji-muhammed/Flutter-Developer-Journey/tree/master/Navigation-Drawer/flutter_nav_drawer)
 
+### Day4
+________
+Today I developed small list view app which support swipe to delete feature on list items.
+
+### Day5
+_________
+Today I implemented a grocery store ui. [Grocery App](https://github.com/anas-aji-muhammed/Grocery-Shopping-App/tree/master/grocerry_shopping_app)
+![Grocery App UI](https://github.com/anas-aji-muhammed/Grocery-Shopping-App/blob/master/grocerry_shopping_app/ui.png?raw=true)
+
