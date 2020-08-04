@@ -26,5 +26,6 @@ Today I developed small list view app which support swipe to delete feature on l
 ### Day5
 _________
 Today I implemented a grocery store ui. [Grocery App](https://github.com/anas-aji-muhammed/Grocery-Shopping-App/tree/master/grocerry_shopping_app)
+<img src="https://github.com/anas-aji-muhammed/Grocery-Shopping-App/blob/master/grocerry_shopping_app/ui.png?raw=true" alt="alt text" width="250" height="250">
 ![Grocery App UI](https://github.com/anas-aji-muhammed/Grocery-Shopping-App/blob/master/grocerry_shopping_app/ui.png?raw=true = 250*250)
 
