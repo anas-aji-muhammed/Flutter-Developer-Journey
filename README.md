@@ -32,5 +32,4 @@ Today I implemented a grocery store ui. [Grocery App](https://github.com/anas-aj
 
 ### Day6
 _________
-Today I worked with GetX StateMangement package. GetX provides a combination of State Management, Dependency Injection and Route Management solutions that work great together. But things don’t end here, it provides a ton of utilities that make it easy to implement internationalization, theming, validation, etc.
-
+Today I worked with GetX StateMangement package. GetX provides a combination of State Management, Dependency Injection and Route Management solutions that work great together. But things don’t end here, it provides a ton of utilities that make it easy to implement internationalization, theming, validation, etc. [GetX Test App](https://github.com/anas-aji-muhammed/GetX-StateManagement/tree/master)
